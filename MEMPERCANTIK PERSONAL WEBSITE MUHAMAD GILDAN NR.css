@@ -1,0 +1,28 @@
+body {
+    background-color: cadetblue;
+}
+table{
+    background-color: darkkhaki;
+}
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@300&display=swap');
+
+*{
+    font-family: 'Stick No Bills', sans-serif;
+}
+
+.name {
+    padding: 50px 50px 50px 50px;
+    margin: auto;
+width: 200px;
+font-size: medium;
+text-align: center;
+}
+p{
+font-size: 25px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: justify;
+}
+
+
+
+
